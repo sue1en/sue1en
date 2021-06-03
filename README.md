@@ -22,13 +22,13 @@ In progress...
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs" height="45" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" height="45" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/nodejs-icon-001.svg" alt="NodeJs" height="45" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="ExpressJS" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/git-logo-001.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">  
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -38,10 +38,10 @@ In progress...
 
 ## 📫 Find me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="vertical-align:center; margin:4px"> /suelenbatista</a>
+<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/linkedin-logo-001.svg" alt="LinkedIn" height="20" style="vertical-align:bottom; margin:4px"> /suelenbatista</a>
 </p>
 <p align="left">
-<a href="https://gitlab.com/suelen.batista" target="_blank" rel="noopener noreferrer">https://gitlab.com/suelen.batista</a>
+<a href="https://gitlab.com/suelen.batista" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/gitlab-logo-001.svg" alt="GitLab" height="20" style="vertical-align:bottom; margin:10px">  /suelen.batista</a>
 </p>
 
 ## 💻 My GitHub  Stats:

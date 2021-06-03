@@ -38,7 +38,7 @@ In progress...
 
 ## 📫 Find me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/linkedin-logo-001.svg" alt="LinkedIn" height="20" style="vertical-align:bottom; margin:4px"> /suelenbatista</a>
+<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/sue1en/sue1en/3677d02c5df63d507c2af0c02191b34ffe3154e6/img/logo/linkedin-logo-001.svg" alt="LinkedIn" height="20" style="vertical-align:bottom; margin:4px"> /suelenbatista</a>
 </p>
 <p align="left">
 <a href="https://gitlab.com/suelen.batista" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/gitlab-logo-001.svg" alt="GitLab" height="20" style="vertical-align:bottom; margin:10px">  /suelen.batista</a>

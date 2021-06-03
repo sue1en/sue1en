@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sue1en/sue1en/main/img/Software_Dev_04-2.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/sue1en/sue1en/main/img/Software_Dev_02.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 # Hi there 👋
 

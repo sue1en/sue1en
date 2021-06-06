@@ -13,7 +13,7 @@ In progress...
     <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/css-logo-001.svg" alt="CSS3" height="45" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/sass-logo-001.svg" alt="sass" height="45" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/fb1786c608a65017d26aca6e042c25841ea65ad5/img/logo/sass-logo-001.svg" alt="sass" height="45" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/javascript-logo-001.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -38,7 +38,7 @@ In progress...
 
 ## 📫 Find me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/linkedin-logo-002.svg" alt="LinkedIn" height="25" style="vertical-align:bottom; margin:4px"> /suelenbatista</a>
+<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/sue1en/sue1en/fb1786c608a65017d26aca6e042c25841ea65ad5/img/logo/linkedin-logo-002.svg" alt="LinkedIn" height="25" style="vertical-align:bottom; margin:4px"> /suelenbatista</a>
 </p>
 <p align="left">
 <a href="https://gitlab.com/suelen.batista" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/gitlab-logo-001.svg" alt="GitLab" height="25" style="vertical-align:bottom; margin:10px">  /suelen.batista</a>

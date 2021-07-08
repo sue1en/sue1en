@@ -2,7 +2,6 @@
 
 # Hi there 👋
 
-In progress...
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -38,10 +37,12 @@ In progress...
 
 ## 📫 Find me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/sue1en/sue1en/fb1786c608a65017d26aca6e042c25841ea65ad5/img/logo/linkedin-logo-002.svg" alt="LinkedIn" height="25" style="vertical-align:bottom; margin:4px"> /suelenbatista</a>
-</p>
-<p align="left">
-<a href="https://gitlab.com/suelen.batista" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/sue1en/sue1en/98694f306ea008999580600b706f70e762a20567/img/logo/gitlab-logo-001.svg" alt="GitLab" height="25" style="vertical-align:bottom; margin:10px">  /suelen.batista</a>
+  <a href="https://www.linkedin.com/in/suelenbatista" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/776a1af955b37141814748ea03d780231ea18e1d/img/logo/linkedin-Badge-001.svg" alt="LinkedIn" height="30" style="vertical-align:bottom; margin:4px">
+  </a>
+  <a href="https://gitlab.com/suelen.batista" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/776a1af955b37141814748ea03d780231ea18e1d/img/logo/GitLab%20-%20Badge-001.svg" alt="GitLab" height="30" style="vertical-align:bottom; margin:10px">
+  </a>
 </p>
 
 ## 💻 My GitHub  Stats:

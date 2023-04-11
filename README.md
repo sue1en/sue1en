@@ -5,11 +5,11 @@ Welcome to my profile.
 
 My name is Suelen Batista, I'm a web developer from Rio de Janeiro, Brazil. I love learning about technology and some other topics too, learning about new ideas and possibilities. I also really enjoy talking to other people, learning from what they have to say and exchanging experiences, not only about careers, but I also enjoy hearing a good story. Besides that, I am often studying to improve my knowledge and learn new skills.
 
-A little about my technical knowledge, I develop frontend projects, using technologies such as HTML5, CSS3, JavaScript, Bootstrap, React, Redux and others, depending on the project's needs. I also have some knowledge of backend development like building APIs with Node.js and database integration (SQL and NoSQL).
+A little about my technical knowledge, I develop frontend projects, using technologies such as HTML5, CSS3, JavaScript, Typescript, Bootstrap, React, Redux and others, depending on the project's needs. I also have some knowledge of backend development like building APIs with Node.js.
 
 I've always had a big interest in computing and related technologies, so I decided to focus my career on that, but before that I graduated in architecture, where I was able to learn and work on multidisciplinary skills, which can be useful in my current career.
 
-Currently I am seeking to work as a front-end developer.
+Currently I am working as a front-end developer.
 
 Feel free to connect with me if you want.
 

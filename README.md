@@ -21,11 +21,11 @@ Feel free to connect with me if you want.
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/css-logo-001.svg" alt="CSS3" height="45" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/sue1en/sue1en/fb1786c608a65017d26aca6e042c25841ea65ad5/img/logo/sass-logo-001.svg" alt="sass" height="45" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/javascript-logo-001.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/5b951eed44e796dd9581a53b20631a7781f721db/img/logo/typescript-logo-002.svg" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/react-logo-001.svg" alt="ReactJs" height="45" style="vertical-align:top; margin:4px">
@@ -41,6 +41,9 @@ Feel free to connect with me if you want.
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">  
     <img src="https://raw.githubusercontent.com/sue1en/sue1en/0042ec70ce94a4663ef84a3a6eae01effb66210b/img/logo/vscode-logo-002.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/sue1en/sue1en/fb1786c608a65017d26aca6e042c25841ea65ad5/img/logo/sass-logo-001.svg" alt="sass" height="45" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
